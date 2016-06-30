@@ -1,0 +1,3 @@
+# kaneco
+## License
+MIT
